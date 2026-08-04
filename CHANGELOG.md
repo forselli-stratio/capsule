@@ -2,7 +2,7 @@
 
 ## 1.1.0 (upcoming)
 
-* Pending changelog
+* [PLT-4570] Bump golang.org/x/crypto from 0.51.0 to 0.52.0 to fix CVE-2026-46595
 
 ## Previous development
 
