@@ -2,7 +2,7 @@
 
 ## 1.1.0 (upcoming)
 
-* [PLT-4570] Bump golang.org/x/crypto from 0.51.0 to 0.52.0 to fix CVE-2026-46595
+* [PLT-4570] Capsule: actualizar paquete crypto de 0.51.0 a 0.52.0
 
 ## Previous development
 
